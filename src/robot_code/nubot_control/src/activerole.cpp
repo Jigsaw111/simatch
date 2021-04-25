@@ -13,9 +13,9 @@ ActiveRole::ActiveRole()
     quick_shoot_state_ = false;
     quick_shoot_count_ = 0;
     currentstate_ = CanNotSeeBall;
-    catch_in_ourfeild_ =false;
-    kick_enable_ =false;
+    catch_in_ourfeild_ = false;
+    kick_enable_ = false;
 }
-ActiveRole:: ~ActiveRole()
+ActiveRole::~ActiveRole()
 {
 }

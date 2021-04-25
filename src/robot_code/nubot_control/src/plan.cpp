@@ -1,6 +1,6 @@
 #include "nubot/nubot_control/plan.h"
 #include "core.hpp"
-using namespace  nubot;
+using namespace nubot;
 
 Plan::Plan()
 {

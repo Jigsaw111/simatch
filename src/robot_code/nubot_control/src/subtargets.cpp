@@ -3,4 +3,5 @@
 using namespace nubot;
 
 Subtargets::Subtargets()
-{}
+{
+}
